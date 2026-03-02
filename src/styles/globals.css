@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #111;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.leaderboard {
+  padding: 40px;
+  background: #161616;
+}
+
+.btn {
+  padding: 10px 15px;
+  background: crimson;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary {
+  padding: 15px 25px;
+  background: gold;
+  border: none;
+  cursor: pointer;
+}
